@@ -1,0 +1,64 @@
+hva skal denne nettsiden gjøre
+													hva denne nettsiden skal gjøre 
+
+denne nettsiden skal fungere som en fleet dispatch det som skal være med i denne fleet dispatchen det er fleet location, hva jeg har i fleet, hvilken flyplasser jeg har, og uke ruter.
+hvilket språk skal det bli brukt i dette: HTML, css, js og etter tid så skal jeg bruke server localhost å da skal jeg bruke vux eller angular. det er litt mulig har jeg kommer til å bruke php database for å logge flyene og andre ting men det kommer jeg til å starte med i starten av 2020
+nettsiden den kommer ikke til å bli publisert. men om jeg jobber bra med nettsiden så kommer jeg sikkert til å ombestemme meg 
+hovedsaken med dette er at jeg skal lære meg litt mer js og andre kode språk som php, scss og andre språk
+jeg prøver ikke å kopiere matt davis prosject fly prosjektet hans. han har jobbet mye med det. så jeg skal prøve å legge meg unna det. men for det meste så kommer dette til å bli en nettside som ikke blir publisert til folk. 
+
+skal begynne å lage nettsiden flightweek når jeg er ferdig å skrive denne artikkelen. 
+
+
+
+												prosess starten
+
+om jeg vil så kommer jeg til å ha filene på en NAS server eller at jeg kjøper en egen HDD eller SSD for å ha denne nettsiden på om det blir nødvendig  
+program språk som blir brukt først det kommer til å bli HTML, CSS, Javascript. kommer til å prøve å bruke js mer enn html men vi får se. jeg kommer til å starte med å finne background color. etter det så kommer jeg til å begynne med navigasjonen i nettsiden. det som er best er at jeg lager en folder som heter allpages der viktige filer som er foreksempel navigasjon og background color. det blir egen css for sidene. og background color og nav blir i samme css file. 
+kommer til å starte med forsiden. 
+det aller første jeg skal gjøre er å lage en todo list altså en gjøre liste. men om jeg skal bruke trello eller todo funskjonen eller om jeg skal bruke begge to. for det meste så kommer jeg til å bruke begge to. 
+det som er viktig er at jeg bygger ene siden først før jeg begynner med den andre siden. 
+
+												forside bilde
+denne siden er ikke akkurat så veldig viktig men det er bare start siden. her kommer det til å komme litt reklame og litt informasjon og litt nyheter om hva som skjer i flight sim verden. dette steget kommer til å bli enkelt. her er også starten med navigasjonen med nettsiden. 
+
+	
+											airports
+flyplasser. denne siden har fulge med hvilken flyplasser jeg har og ikke har, den skal også logge hvilken fly jeg har brukt mest til den flyplassen. den skal også ha en dokument over flyselskapenes gater ved flyplassene og hvor flyene flyr. 
+det kommer til å vise hvilken flyplass har blitt flyt mest i uka 
+
+
+														fleet
+her kommer det hvilken fly du har i fly simulator din. du har muligheten til å legge til flyene selv i denne tiden ellers så kan man sende en mail til developer for å gjøre det men det kommer til å ta lengere tid innen 2 uker. 
+installed så mener jeg hvilken fly du har i simulatoren i nav så kommer dette til å bli kalt (skrive når jeg har kommet på et god ord)
+ønskeliste, her kan du legge til hvilket fly du ønsker deg eller hvilket fly du sparer deg til, det kommer også til å lagt til en alert om det er tilbud på det flyet foreksemple om aerosoft 320 er på tilbud og den er på ønskelisten din så blir du alertet på mail eller mobil, flyplasser kommer også til å denne funksjonen.
+
+fleetlocation, her ser du hvor flyet ditt er, du får info om hvilken flyplass den er på, hvilken flytype, hvilken flyselskap, tailnumber, 
+
+
+
+												routes
+her kan du finnes flyselskapenes router og hvilken fly blir brukt på den. 
+på routes siden så kommer til å komme side for vær radar det vil si at det blir metar informasjon og en værkart 
+
+
+												Weekroute page
+på denne siden så får du dagens flights hvor du skal fly, og du kan også få ukas flights. det blir også 1 til 2 long haule. det blir også innstillinger. i innstillinger kan du velge hvilket flyselskap du bare vil fly med. du kan også velge en hovedbase du kan fly fra. 
+
+
+
+
+												hvordan den skal bli lagt 
+som jeg har sagt i introen så blir det brukt html, css, og js. etter tid når jeg synes at jeg er ferdig med html css siden så går jeg over til server localhost. å da blir det enten vux eller angular. det blir etterhvert en database med routes, flyene, flyselskapenes gates. et blir også kanskje profiler. 
+
+om jeg går over til angular så kommer jeg garantert å bytte til scss eller sass 
+
+
+
+												om nettsiden skal bli publisert
+om jeg velger å publisere denne nettsiden, så går jeg over til angular eller vux. å da blir det en prosess. prosessen er at jeg må add alt på nytt men nå på kanskje typescript og det blir adda database. 
+hovedsaken med at nettsiden skal bli publisert er at jeg må ha penger for hosting servere. fordi det er ikke gratis å holde en nettside opp. 
+
+
+
+support: P3D, x-plane,IF? og fsx + den nye fsx 2020
