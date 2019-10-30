@@ -4,3 +4,6 @@ git status
 git commit
 
 initial commit
+
+git status
+git push 
