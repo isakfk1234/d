@@ -1,0 +1,15 @@
+body {
+    background-color: hsl(0,0%,96%);
+}
+.coming {
+    border: 0.03rem solid;
+    margin: 15rem 20rem 0rem 20rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration-line: underline;
+    font-family: sans-serif;
+    box-shadow: 3px 3px 3px 0px #424242;
+    display: flow-root;
+    border-style: none;
+}
