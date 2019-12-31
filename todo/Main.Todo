@@ -12,4 +12,9 @@ hva som skal bli gjort
     ☐ box color
     ☐ box border
     ☐ 
-    
+
+
+/searchflightbox: 
+    ☐ page
+    ☐ add flights... to the js json 
+    ☐ flightnumber, airport from and to, gate, aircraft used on the route.

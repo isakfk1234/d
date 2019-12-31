@@ -7,3 +7,14 @@
 h2 {
     text-decoration-line: underline;
 }
+
+
+
+
+.textcenter {
+    text-align: center;
+}
+
+.textright {
+    text-align: right;
+}
