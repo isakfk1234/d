@@ -2,25 +2,29 @@ body {
     background-color: hsl(0,0%,96%);
 }
 
+/* hele navet */
 header {
-    background: aqua;
-    border-bottom: 0.1rem solid;
-    border-top: 0.05rem solid;
-    border-left: 0.09rem solid;
-    border-right: 0.09rem solid;
-    text-align: center;
+background: white;
+text-align: right;
 }
-
+/* størrelse på nav */
 nav {
-    font-size: larger;
+    position: absolute;
+    margin: -4rem 0rem 0rem 97rem;
+    font-size: large;
 }
-
+/* rundt boksen i linken */
 nav a {
-    text-decoration: none;
-    color: black;
-    background-color: #ffe4e4;
-    border: 0.05rem solid;
-    padding: 0.2rem;
-    display: inline-block;
+text-decoration: none;
+color: black;
 }
 
+img {
+    width: 5%;
+    text-align: left;
+    margin-right: 111rem;
+}
+
+header > a {
+    text-align: right;
+}
