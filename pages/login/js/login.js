@@ -16,8 +16,7 @@ function validate()
 }
 	if (valid)
 	{
-		alert("Login was successful");
-		window.location = "www.google.ie";
+		window.location = "/nettsider/flightweek/pages/accounts/profil.html";
 		return false;
 	}
 	var again = " tries";

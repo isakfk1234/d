@@ -2,25 +2,43 @@ body {
     background-color: hsl(0,0%,96%);
 }
 
-header {
-    background: aqua;
-    border-bottom: 0.1rem solid;
-    border-top: 0.05rem solid;
-    border-left: 0.09rem solid;
-    border-right: 0.09rem solid;
-    text-align: center;
+
+
+.header {
+    overflow: hidden;
+    background-color: white;
+    padding: 20px 10px;
 }
 
-nav {
-    font-size: larger;
+
+
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
 }
 
-nav a {
-    text-decoration: none;
-    color: black;
-    background-color: #ffe4e4;
-    border: 0.05rem solid;
-    padding: 0.2rem;
-    display: inline-block;
+
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
 }
+
+
+.header-right {
+    float: right;
+}
+
+img {
+    width: 6%;
+}
+
+
 
