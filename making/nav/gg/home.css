@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-bottom: 0.1rem solid #14213d;
+}
+/* main flex changes the white side  */
+.main {
+    flex: 30%;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* new  */
+
+/* Left column */
+.leftcolumnn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumnn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+/* Fake image */
+
+/* Add a card effect for articles */
+.cardd {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.roww:after {
+  content: "";
+  display: table;
+  clear: both;
+}
