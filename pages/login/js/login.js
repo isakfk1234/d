@@ -1,11 +1,11 @@
-var count= 2;
+var count= 3;
 function validate()
 {
 	var un = document.login.username.value;
 	var pw = document.login.password.value;
 	var valid = false;
-	var usernameArray = ["Vlad", "Bob"];
-	var passwordArray = ["12345", "54321"];
+	var usernameArray = ["Vlad", "Bob", "web1"];
+	var passwordArray = ["12345", "54321", "web2"];
 	for (var i = 0; i < usernameArray.length; i++)
  {
 	if ((un == usernameArray[i]) && (pw == passwordArray[i]))

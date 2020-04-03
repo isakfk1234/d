@@ -1,16 +1,185 @@
 hva som skal bli gjort
 
+/decide over new language to use: 
+        ☐ vue
+        ☐ react
+        ☐ angular
+        ☐ python 
+
+adding other task to do when working on the item. 
 
 /allpages:
     ☐ nav
     ☐ background color
     
+/fwfwf: 
+        ☐ 
 
-/forside: 
-    ☐ nyheter og viktige informasjon box
-    ☐ when the product is ready for release box
-    ☐ box color
-    ☐ box border
-    ☐ 
+/current home page(finished): 
+     ✔ add href to other pages @done(20-02-21 12:06)
+     ✔ add the new home page @done(20-02-21 12:06)
+    
+     
+
+
+     
+/the new current home page: 
+        ✔ add href to the nav @done(20-02-19 16:05)
+        ✔ update notification...: add a new class that make the servermessage the second class in the div @done(20-02-21 10:59)
+        ✔ fix css class @done(20-02-21 11:05)
+        ✔ change the row to update, @done(20-02-19 16:25)
+        ✔ change side to message @done(20-02-19 16:25)
+        ✔ fix problem and maintenance button @done(20-02-28 16:03)
+        ✔ make a new class that control over the notification @done(20-02-25 16:54)
+        ✔ add a button that have control over notfication box @done(20-02-25 16:47)
+        ☐ change the background-color on main with nth-child
+        ☐ change the style on the button.
+                remove the current style on the button to something else. 
+                when admin profil is finished remove the button from the homepage
+                make a button for server problem, update, maintenance.  
+        ☐ add color to different message (do it later)
+        ☐ make a agreement box
+        ✔ make a css command called: shutdown, update, maintenance, server problem @done(20-02-19 16:25)
+        ✔ fix rightcolumn: instagram snapchat, facebook and twitter @done(20-02-21 11:04)
+        ✔ remove retweeted @done(20-02-21 11:03)
+        ✔ remove snapchat @done(20-02-21 11:03)
+        ✔ remove instagram @done(20-02-21 11:03)
+        ✔ facebook box that says coming soon @done(20-02-21 11:04)
+        ✔ make a new row but make sure that the social row dont move @done(20-02-21 11:48)
+        ✔ add every page href to the other pages. (do it when the page is finished) @done(20-02-21 12:05)
+        ✔ title to Flightweek home or Home @done(20-02-21 12:06)
+        ☐ work on the backup file 
+                have to press the button 2 times to get it to work. 
+                when the issues has been fixed return the path to the main in making home page 
+        ☐ add href to contact us
+        ✔ Switch Contact us with about @done(20-02-25 21:59)
+        ☐ done
+
+
+
+
+
+
+/about: 
+        ✔ change the title to About @done(20-02-21 12:14)
+        ✔ change the folder nav name to css @done(20-02-21 12:14)
+        ✔ add css about @done(20-02-21 12:14)
+        ✔ change Nav @done(20-02-21 12:14)
+        ✔ add href to the nav @done(20-02-21 17:03)
+        ☐ add a information about the staff 
+        ☐ make a text about why im making this. 
+        ☐ make a text about the staff and who is working on this prosject. 
+
+/about page finished: 
+        /files:
+                ✔ html @done(20-04-01 12:26)
+                ✔ css @done(20-04-01 12:26)
+                ✔ nav create a link to css nav @done(20-04-01 12:29)
+                ✔ nav route @done(20-04-01 13:28)
+                        do this when the page is finished to release 
+        /nav: 
+                ✔ add nav href @done(20-04-01 13:28)
+        /content: 
+                ✔ info box @done(20-04-03 11:05)
+                        middle 
+                ✔ make a picture of what the page should look @done(20-04-01 18:52)
+                ✔ create the text that should be in the info box @done(20-04-03 11:05)
+                ✔ add picture @done(20-04-02 14:40)
+        
+        /pic: 
+                ✔ 1 nav @done(20-04-01 18:52)
+                ✔ 2 pic/infobox @done(20-04-01 18:52)
+                ✔ 3 text @done(20-04-01 18:52)
+                ✔ 4 role @done(20-04-01 18:52)
+                        what role can be use
+                        owner, developer, staff, Web staff, 
+                ✔ 5 info about the web         |WS @done(20-04-03 11:05)
+                        what code have been used html,css and JS 
+                        what is the next step of the website 
+        /aboutFW
+        /about flightweek:
+                 ☐ change the class name on the footer 
+                 ☐ change the background color and possible text color 
+                 
+
+
+
+/Contact us:
+        ☐ contact folder
+        ☐ page
+        ☐ nav
+        ☐ nav href
+        ☐ make the contact css
+                dont use body because nav css has the body for every page  
+        ☐ contact us form
+        ☐ contact people: Web staff, Support staff, Software dev, suggestion. 
+        ☐ make a option box that has the name from contact people 
+        ☐ the first version of this form is going to be from Google form.  
+        ☐ contact form include
+                email, username, subject, text box. 
+        
+
+/login: 
+        ✔ change username and psw to web1 and web2 @done(20-02-21 11:07)
+        ☐ maybe change the background picture 
+        ☐ maybe a new login system
+        ☐ add nav 
+        ☐ maybe change the login system 
+                not the script but only the design. 
+        ☐ add href to the nav 
+        
+
+
+
+
+
+
+/profil all pages:
+        ☐ username & logout (send to the home page.)
+        ☐ username current logged in. (offline due to no database)
+
+
+/Profil new: 
+        ✔ change to the new Nav @done(20-02-28 16:10)
+        ☐ change the href and the name of the link 
+                fleet, airport......
+        ☐ add a profil account 
+        ✔ profil box @done(20-02-28 19:52)
+        ✔ profil picture @done(20-02-28 19:52)
+        ☐ profil status
+    * Activce, * offline, * inflight, * climbing, * descending * boarding * deboarding * 
+    status bar over the profil name.
+    doing a flight state the flight. 
+        ☐ flights done 
+        ☐ most used aircraft 
+        ☐ last flight 
+        ☐ flight hours
+        ☐ add a folder for users. 
+                only for this time 
+                until I get the database running. 
+                folder to add :_ admin, staff, normal users. 
+
+/admin profil:
+        ☐ add button that control the notification system
+                change the system from home to this profil. 
+
+
+/Fleet: 
+        ☐ change to the new nav 
+        ☐ make a notification that says: page under work, going to be changed soon. 
+        ☐ add to the page under profil 
+                you need to be logged in to use this system. 
+
+/route: 
+        ☐ add Route page
+        ☐ add the current database (offline js database)
+        ☐ add nav 
+
+/flight generator:
+        ☐ folder
+        ☐ css = page and nav css
+        ☐ list of airport
+                list of icao airports name  ggg
+        ☐ d
 
 

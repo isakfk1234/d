@@ -1,0 +1,12 @@
+what is the next step of the website 
+
+ * the next step is to finish other pages that has not begin working on yet 
+ * maybe switch over to vue or react not sure yet. but the pages need to be finished before I can switch over to a new language 
+ *  
+
+
+what have been done since the start
+ * Home page finished
+ * login page finished
+ * have added some routes to the database 
+ * 
