@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border-bottom: 5px solid #E8EBEF;
+}
+
+.profil {
+    margin: 30px;
+    flex: 30%;
+    padding: 20px;
+    background: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+
+.profil-box {
+    text-align: center;
+}
+
+
+.profil-picture {
+    border: 3px solid;
+}
+
+
+/* check both profil status before deleting  */
+.profil-status  p {
+    border: 1px solid;
+    flex: 30%;
+    background-color: lightgray;
+    margin: 30px;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    display: inline-block;
+    border-radius: 1rem;
+
+}
+
+/* status of the user */
+
+.status-online {
+    text-align: center;
+    display: none;
+}
+
+.status-offline {
+    text-align: center;
+    /* display: none; */
+}   
+
+.status-flying {
+    text-align: center;
+    display: none;
+}
+
+
+
+/* profil stats */
+
+
+
+/* dont remove above due to current stats  */
+
+
+/* the new profil stats  */
+
+.profil-stats-new {
+    border: none;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 1em 0 1em;
+}
+
+
+.item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.item h1 {
+    font-weight: 300;
+    color: #14213d;
+    margin: 0;
+    padding: 0.2em;
+    font-size: 1.4em;
+
+}
+
+.item h4 {
+    font-weight: 300;
+    color: #3c599b;
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+    transition: 0.2s ease color;
+}
+
+
+/* dont write anything below only mobil version  */
+/* mobil not working status */
+.mobil {
+    display: none;
+}
+
+.mobil-info {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .mobil {
+      background-color: white;
+      display: block;
+      overflow: hidden;
+    }
+
+    .profil {
+        display: none;
+    }
+
+    .header {
+        display: none;
+    }
+    .mobil-version {
+        border: none;
+    }
+
+    .mobil-info {
+        border: none;
+        display: block;
+        margin-top: 30px;
+        overflow: hidden;
+        background-color: white;
+        box-shadow: 1px 1px 1px 1px black;
+
+    }
+  }
+
+/* mobil */
