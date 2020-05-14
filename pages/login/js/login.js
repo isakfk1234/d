@@ -1,41 +1,49 @@
-var count= 3;
-function validate()
+function logfin()
 {
-	var un = document.login.username.value;
-	var pw = document.login.password.value;
-	var valid = false;
-	var usernameArray = ["Vlad", "Bob", "web1"];
-	var passwordArray = ["12345", "54321", "web2"];
-	for (var i = 0; i < usernameArray.length; i++)
- {
-	if ((un == usernameArray[i]) && (pw == passwordArray[i]))
-	{
-		valid = true;
-		break;
-	}
+var a=document.getElementById('username').value
+var b=document.getElementById('password').value
+if(a==""||b=="")
+{
+alert("!!! please fill the details !!!");
 }
-	if (valid)
-	{
-		window.location = "/nettsider/flightweek/pages/accounts/profil.html";
-		return false;
-	}
-	var again = " tries";
-	if (count ==1)
-	{
-		again = " try"
-	}
-	if (count >= 1)
-	{
-		alert("Wrong password or username")
-		count--;
-	}
-	else
-	{
-		alert("Incorrect password or username you are now blocked");
-		document.login.username.value = "You are now Blocked";
-		document.login.password.value = "Fool you can't see this";
-		document.login.username.disabled = true;
-		document.login.password.disabled = true;
-		return false;
-	}
+else 
+if(a=="isakfk1234" && b=="12345")
+{
+window.open("/nettsider/flightweek/making/account/account.html");
+}
+else
+if(a=="wild1234" && b=="12345")
+{
+window.open("/nettsider/flightweek/pages/accounts/usersprofil/wild1234.html");
+}
+else
+if(a=="vikingboy12" && b=="12345")
+{
+window.open("tv2.html");
+}
+else
+if(a=="AB12" && b=="12345")
+{
+window.open("manager.html");
+}
+else
+if(a=="osi32" && b=="12345")
+{
+window.open("manager.html");
+}
+else
+if(a=="AMNM" && b=="12345")
+{
+window.open("manager.html");
+}
+else
+if(a=="YASW" && b=="12345")
+{
+window.open("manager.html");
+}
+else
+{
+alert("wrong id/password");
+}
+
 }
