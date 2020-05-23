@@ -1,0 +1,44 @@
+/* this is for iphone 6/7/8 */
+@media only screen and (max-width: 375px) {
+    body {
+        background: url(/Nettsider/flightweek/pages/login/second.jpg);
+        background-repeat: no-repeat;
+        background-size: 375px 667px;
+    }
+    .container {
+        font-family:  sans-serif;
+        border: 2px solid #F07334;
+        width: 96%;
+        text-align:  center;
+        margin: auto;
+        border-radius: 12px;
+        background-color: white;
+        padding-bottom: 10px;
+        -webkit-box-shadow: 3px 0px 10px 0px black;
+        -moz-box-shadow: 3px 0px 10px 0px black;
+        box-shadow: 3px 0px 10px 0px black;
+    }
+  }
+
+
+/* this is for 6/7/8 plus */
+@media only screen and (max-width: 414px) and (min-width: 413px) {
+    body {
+        background: url(/Nettsider/flightweek/pages/login/second.jpg);
+        background-repeat: no-repeat;
+        background-size: 414px 882px;
+    }
+    .container {
+        font-family:  sans-serif;
+        border: 2px solid #F07334;
+        width: 96%;
+        text-align:  center;
+        margin: auto;
+        border-radius: 12px;
+        background-color: white;
+        padding-bottom: 10px;
+        -webkit-box-shadow: 3px 0px 10px 0px black;
+        -moz-box-shadow: 3px 0px 10px 0px black;
+        box-shadow: 3px 0px 10px 0px black;
+    }
+  }
