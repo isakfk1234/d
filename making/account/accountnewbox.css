@@ -11,19 +11,6 @@
 
 /* check both profil status before deleting  */
 
-
-/* status of the user */
-
-
-
-
-/* profil stats */
-
-
-
-/* dont remove above due to current stats  */
-
-
 /* the new profil stats  */
 
 .profil-stats-new {
@@ -34,6 +21,8 @@
     justify-content: space-between;
     padding: 0 1em 0 1em;
     margin-top: 5rem;
+    -webkit-box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.07);
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.07);
 }
 
 .rank-display-none {
@@ -76,7 +65,9 @@
 .flexbox {
     width: 200px;
     margin: 10px;
-    border: 2px solid #333;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border: 1px solid #333;
     /* background-color: #dfdfdf; */
 }
 
@@ -180,12 +171,12 @@ p.btn.info {
 
 .flexbox-profil-flightboardheader {
     text-align: center;
-    font-size: smaller;
+    font-size: 13px;
 }
 
 .flexbox-profil-flightboardheader2 {
     text-align: center;
-    font-size: smaller;
+    font-size: 13px;
 }
 
 table tr:nth-child(odd) {
@@ -212,8 +203,7 @@ table {
 
 table thead th {
     padding: 1em;
-
-    background-color: #fca311;
+    background-color: #98bae4;
 }
 
 a {
@@ -269,3 +259,12 @@ a {
 /* mobil */
 
 
+/* icons */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+    display: grid;
+}
