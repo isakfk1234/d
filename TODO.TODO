@@ -1,7 +1,7 @@
-/15.05:
-    ☐ rank system 
-        start on the rank system check todo profil rank system
-    ☐ add profiles
-    ☐ add N/A to every profiles 
-    ☐ add a folder for it 
-    
+/05.06.20: 
+    ☐ footer 
+        every pages
+        use css footer file. its in the css/footer
+        make footer file
+    ☐ look into more Vue.js
+        framework
